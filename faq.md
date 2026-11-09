@@ -27,3 +27,14 @@
 
 > **Note:** Android requires Accessibility access for third-party launchers to expand the notification shade.
 Able Launcher uses this permission solely to detect the swipe-down gesture; no personal data or on-screen content is accessed or collected.
+
+## How do backups work?
+
+Backups are saved locally to a file location of your choice using your device's file manager.
+
+**What is included:**
+* **App drawer setup:** Folders, tabs, and hidden apps
+* **Dock configuration:** Saved dock slot layouts
+* **Preferences:** Dismissed onboarding tips and tutorial state
+
+> **Note:** Home screen layouts and widget placements are not backed up, as screen dimensions, grid availability, and widget configurations vary across devices.
