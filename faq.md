@@ -14,22 +14,22 @@
 > **Note:** A folder must be created in the app drawer before it can be added to the home screen.
 
 1. Open the app drawer.
-2. Long-press the folder to move.
+2. Long-press the folder.
 3. Tap **Add to Home screen**.
 
 ## How do I swipe down on empty home screen space to show notifications?
 
 1. Open the app drawer.
 2. Tap the **Settings** (gear) icon in the top-right corner.
-3. In the **Gestures & Notifications** card, toggle on **Swipe down for notifications**.
+3. In the **Gestures & Notifications** card, turn on **Swipe down for notifications**.
 4. On the Android Accessibility screen, select **Able Launcher** under **Downloaded apps**.
-5. Toggle the accessibility permission to **On**.
+5. Turn on the accessibility permission.
 
 > **Note:** Android requires Accessibility access for third-party launchers to expand the notification shade. Able Launcher uses this permission solely to detect the swipe-down gesture; no personal data or on-screen content is accessed or collected.
 
 ## How do backups work?
 
-Backups are saved locally to a chosen directory via the device file manager.
+Backups are saved locally to a selected folder via the device file manager.
 
 **What is included:**
 - **App drawer setup:** Folders, tabs, and hidden apps.
@@ -52,16 +52,15 @@ Backups are saved locally to a chosen directory via the device file manager.
 
 ### Switch to another launcher
 
-1. Open the device **Settings** app.
-2. Tap **Apps** (or **Apps & notifications**).
-3. Select **Default apps** > **Home app**.
-4. Select the original launcher (e.g., Pixel Launcher, One UI Home) or another installed launcher.
+1. Open device **Settings**.
+2. Go to **Apps** > **Default apps** > **Home app** (may appear as **Apps & notifications** on some devices).
+3. Select the original launcher (e.g., Pixel Launcher, One UI Home) or another installed launcher.
 
 > **Note:** Able Launcher does not alter, overwrite, or interfere with previous launcher home screens, icons, or widget layouts. Switching away leaves the Able Launcher configuration intact, allowing a return at any time without data loss.
 
 ### Uninstall Able Launcher
 
-Android does not allow uninstalling the currently active default launcher. To uninstall:
+Android does not allow uninstalling the active default launcher. To uninstall:
 
 1. Switch the default **Home app** to another launcher using the steps above.
-2. Uninstall Able Launcher from **Settings** > **Apps** > **Able Launcher** or directly through the Google Play Store.
+2. Uninstall Able Launcher via **Settings** > **Apps** > **Able Launcher** or through the Google Play Store.
