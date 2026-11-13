@@ -17,16 +17,6 @@
 2. Long-press the folder.
 3. Tap **Add to Home screen**.
 
-## How do I swipe down on empty home screen space to show notifications?
-
-1. Open the app drawer.
-2. Tap the **Settings** (gear) icon in the top-right corner.
-3. In the **Gestures & Notifications** card, turn on **Swipe down for notifications**.
-4. On the Android Accessibility screen, select **Able Launcher** under **Downloaded apps**.
-5. Turn on the accessibility permission.
-
-> **Note:** Android requires Accessibility access for third-party launchers to expand the notification shade. Able Launcher uses this permission solely to detect the swipe-down gesture; no personal data or on-screen content is accessed or collected.
-
 ## How do backups work?
 
 Backups are saved locally to a selected folder via the device file manager.
